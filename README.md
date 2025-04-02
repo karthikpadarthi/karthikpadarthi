@@ -15,16 +15,16 @@
 ⚡ Fun fact: I’m an active badminton player and love tackling challenges, whether in code or on the court!
 
 🛠️ My Tech Stack:
-Programming Languages
+Programming Languages:
 Python Java C C++ JavaScript
 
-Databases
+Databases:
 SQL MongoDB Redis Firebase Neo4j
 
-Web Development
+Web Development:
 Django Spring Boot React JavaScript PHP Tailwind CSS HTML APIs Web Services
 
-Tools
+Tools:
 Git GitHub Figma
 
 ✨
