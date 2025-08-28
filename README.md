@@ -1,30 +1,36 @@
-👋 Hi, I’m Padarthi Karthik 
+# 👋 Hi, I’m Padarthi Karthik
 
-🎓 Currently pursuing:Bachelor of Technology in Computer Science at the Indian Institute of Information Technology, Jabalpur (IIIT Jabalpur).
+### 🎓 Education
+Currently pursuing **Bachelor of Technology in Computer Science** at the **Indian Institute of Information Technology, Jabalpur (IIIT Jabalpur)**.
 
-👀 I’m interested in software development and problem-solving.
+### 👀 Interests
+Software development, problem-solving, and building scalable backend systems.
 
-🌱 I’m currently learning backend development and advancing my competitive programming skills.
+### 🌱 Currently Learning
+- Advanced **backend development**  
+- Competitive programming & algorithms  
 
-💞️ I’m looking to collaborate on projects involving Django, ReactJS, Spring Boot.
+### 💞️ Looking to Collaborate On
+Projects involving **Django**, **ReactJS**, and **Spring Boot**.
 
-📫 How to reach me: [karthikpadarthi07@gmail.com]
+### 📫 Contact
+Email: [karthikpadarthi07@gmail.com](mailto:karthikpadarthi07@gmail.com)  
 
-😄 Pronouns: He/Him
+### 😄 Pronouns
+He/Him  
 
-⚡ Fun fact: I’m an active badminton player and love tackling challenges, whether in code or on the court!
+### ⚡ Fun Fact
+Active badminton player and love tackling challenges, whether in **code** or on the **court**!  
 
-🛠️ My Tech Stack:
-Programming Languages:
-Python Java C C++ JavaScript
+### 🛠️ Tech Stack
 
-Databases:
-SQL MongoDB Redis Firebase Neo4j
+**Programming Languages:** C++ | Python | Java | C | JavaScript
 
-Web Development:
-Django Spring Boot React JavaScript PHP Tailwind CSS HTML APIs Web Services
+**Databases:** SQL | MongoDB | Redis 
 
-Tools:
-Git GitHub Figma
+**Web Development:** Spring Boot | Django | React | JavaScript | HTML | APIs | Web Services 
 
-✨
+**Tools & Platforms:** Git | GitHub | Figma | **RabbitMQ**
+
+---
+
