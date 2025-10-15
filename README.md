@@ -24,7 +24,7 @@ Active badminton player and love tackling challenges, whether in **code** or on 
 
 ### 🛠️ Tech Stack
 
-**Programming Languages:** C++ | Python | Java | C | JavaScript
+**Programming Languages:** C++ | Java | Python | C | JavaScript
 
 **Databases:** SQL | MongoDB | Redis 
 
